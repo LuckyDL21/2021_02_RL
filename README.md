@@ -1,5 +1,5 @@
-# 2021_02_RL
-2021_02_Reinforcement_Learning
+# 2021_02_RL_Class
+2021_02_Reinforcement_Learning(professor jungmin seo)
 
 
 
